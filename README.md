@@ -150,9 +150,6 @@ arduino-cli upload --fqbn STMicroelectronics:stm32:GenF1:pnum=BLUEPILL_F103C8 -p
 - No downlink command parser yet (remote tare, remote ID, OTA trigger).
 - FIR output shifts (`>> 1`, `>> 5`) hard-coded; should be a single configurable scale factor.
 
-## Hardware vendor
-
-Designed and manufactured by **Enarxi Innovations Pvt Ltd**.
 
 ## License
 
